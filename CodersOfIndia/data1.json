@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "age": 24,
+      "city": "Delhi",
+      "friends": [2, 3, 4],
+      "liked_pages": [101, 102]
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "age": 22,
+      "city": "Mumbai",
+      "friends": [1, 4],
+      "liked_pages": [101, 103]
+    },
+    {
+      "id": 3,
+      "name": "",
+      "age": 25,
+      "city": "Bangalore",
+      "friends": [1, 5],
+      "liked_pages": [102, 104]
+    },
+    {
+      "id": 4,
+      "name": "Sneha",
+      "age": 23,
+      "city": "Delhi",
+      "friends": [1, 2, 5],
+      "liked_pages": [103, 105]
+    },
+    {
+      "id": 5,
+      "name": "Karan",
+      "age": 26,
+      "city": "Chennai",
+      "friends": [3, 4],
+      "liked_pages": [104, 105]
+    }
+  ],
+  "pages": [
+    { "id": 101, "name": "Python Learners", "category": "Education" },
+    { "id": 102, "name": "AI World", "category": "Technology" },
+    { "id": 103, "name": "Food Lovers", "category": "Lifestyle" },
+    { "id": 104, "name": "Travel Diaries", "category": "Adventure" },
+    { "id": 105, "name": "Music Vibes", "category": "Entertainment" }
+  ]
+}
